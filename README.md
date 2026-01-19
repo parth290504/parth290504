@@ -1,5 +1,6 @@
 # 💫 About Me:
-<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/1212a7f5-66bb-4b75-9f0e-8002576f0b62" /> <br>
+<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/b4de9d3b-53a3-4b9b-a95f-346ebf220713" />
+ <br>
 I'm Currently in the final year of B.Tech in Artificial Intelligence and Data Science 😎💻<br>🌱 Presently learning to build Predictive models , AI Agents, RAG systems and Finetuning AI models  !<br>
 
 ## 🌐 Socials:
