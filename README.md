@@ -15,7 +15,7 @@ Check Out my Science based Blog on --> https://parthamberkar.blogspot.com/
 ![](https://nirzak-streak-stats.vercel.app/?user=parth290504&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parth290504&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Quote of the Day
+### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
   ## 💰 You can help me by Donating
